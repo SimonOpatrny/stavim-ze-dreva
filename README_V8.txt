@@ -1,0 +1,3 @@
+V8: Stránka sluzby.html má přepracované fotografické karty služeb a nemá spodní galerii. Galerie je výhradně na fotografie.html, s 12 ilustračními fotografiemi. Obrázky se načítají externě a jejich přesný obsah a licence nejsou ověřeny. Před ostrým nasazením nahradit skutečnými fotografiemi klienta. Kontaktní formulář zůstává mailto demo.
+
+[executed on device: Medikpcsimi (b9873636-80b5-46ba-9e53-b99403685c94)]
